@@ -83,13 +83,12 @@ Main dependencies include:
 - xgboost
 - ritetag
 
-For a complete list, refer to `requirements.txt`.
 
 ## Notes
 
-- This application uses the TikTok API, which may require authentication and have usage limits.
+- This application uses the Unofficial TikTok API and Reitag API, which both acknowledge the software can be used without restrictions.
 - The predictive models are based on historical data and may need periodic retraining for optimal performance.
-- Ensure you comply with TikTok's terms of service when using this tool.
+- You may refer to the video here for the overview of the TrendBlaze Webapp:
 
 ## Contributing
 
@@ -97,4 +96,4 @@ Contributions to TrendBlaze are welcome! Please feel free to submit pull request
 
 ## License
 
-[Add your chosen license here]
+this project is none licenced.
