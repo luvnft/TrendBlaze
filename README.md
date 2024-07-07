@@ -88,7 +88,7 @@ Main dependencies include:
 
 - This application uses the Unofficial TikTok API and Reitag API, which both acknowledge the software can be used without restrictions.
 - The predictive models are based on historical data and may need periodic retraining for optimal performance.
-- You may refer to the video here for the overview of the TrendBlaze Webapp:
+- You may refer to the video here for the overview of the TrendBlaze Webapp, [click here](https://youtu.be/QXlmyMcSFJc)
 
 ## Contributing
 
