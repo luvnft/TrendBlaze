@@ -1,0 +1,61 @@
+{
+    "extra": {
+        "fatal_item_ids": [],
+        "logid": "20240702151019AE69ED09BAC9170A75DE",
+        "now": 1719933020000
+    },
+    "log_pb": {
+        "impr_id": "20240702151019AE69ED09BAC9170A75DE"
+    },
+    "shareMeta": {
+        "desc": "@fayewongwujian 342.6k Followers, 15 Following, 2.0m Likes - Watch awesome short videos created by fayewongwujian",
+        "title": "fayewongwujian on TikTok"
+    },
+    "statusCode": 0,
+    "status_code": 0,
+    "status_msg": "",
+    "userInfo": {
+        "stats": {
+            "diggCount": 0,
+            "followerCount": 342600,
+            "followingCount": 15,
+            "friendCount": 0,
+            "heart": 2000000,
+            "heartCount": 2000000,
+            "videoCount": 3836
+        },
+        "user": {
+            "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/7364180968531296299~c5_1080x1080.jpeg?lk3s=a5d48078&nonce=21748&refresh_token=6a2bac45ceca876cedb0180eb18b485a&x-expires=1720105200&x-signature=ELK%2BOqFlaZ0yeDqFSDxPmV6DLAI%3D&shp=a5d48078&shcp=81f88b70",
+            "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/7364180968531296299~c5_720x720.jpeg?lk3s=a5d48078&nonce=75083&refresh_token=42e16fe40f3ddb62872bd4a341ea1ca7&x-expires=1720105200&x-signature=DtsyNeR%2BVtsfgHBS6cV4cJ1qoCE%3D&shp=a5d48078&shcp=81f88b70",
+            "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/7364180968531296299~c5_100x100.jpeg?lk3s=a5d48078&nonce=96540&refresh_token=907747b424af222006c0d7d8ef70007d&x-expires=1720105200&x-signature=ipcbdfjdYjCh%2BNB%2FZgRD1hwFHa4%3D&shp=a5d48078&shcp=81f88b70",
+            "canExpPlaylist": true,
+            "commentSetting": 0,
+            "commerceUserInfo": {
+                "commerceUser": false
+            },
+            "downloadSetting": 0,
+            "duetSetting": 0,
+            "followingVisibility": 2,
+            "ftc": false,
+            "id": "7292965314991817774",
+            "isADVirtual": false,
+            "isEmbedBanned": false,
+            "nickNameModifyTime": 1714606648,
+            "nickname": "fayewongwujian",
+            "openFavorite": false,
+            "privateAccount": false,
+            "profileEmbedPermission": 3,
+            "profileTab": {
+                "showPlayListTab": false
+            },
+            "relation": 0,
+            "secUid": "MS4wLjABAAAAOb7fg2PIZPmtUSqq9Gs4a2f-XoudeQ7pVmdkkQoSmL5GL0-iWtwgzWS-9FVIQu5K",
+            "secret": false,
+            "signature": "all videos are for funny，no violence ，please don't imitate the videos",
+            "stitchSetting": 0,
+            "ttSeller": false,
+            "uniqueId": "fayewongwujian",
+            "verified": false
+        }
+    }
+}

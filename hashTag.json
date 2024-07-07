@@ -1,0 +1,47 @@
+{
+    "challengeInfo": {
+        "challenge": {
+            "coverLarger": "",
+            "coverMedium": "",
+            "coverThumb": "",
+            "desc": "",
+            "id": "163195",
+            "isCommerce": false,
+            "profileLarger": "",
+            "profileMedium": "",
+            "profileThumb": "",
+            "stats": {
+                "videoCount": 0,
+                "viewCount": 11500000000
+            },
+            "title": "python"
+        },
+        "challengeAnnouncement": {
+            "body": "",
+            "title": ""
+        },
+        "stats": {
+            "videoCount": 0,
+            "viewCount": 11500000000
+        },
+        "statsV2": {
+            "videoCount": "413883",
+            "viewCount": "11546010091"
+        }
+    },
+    "extra": {
+        "fatal_item_ids": [],
+        "logid": "20240704062722B4139CBAC246FB037936",
+        "now": 1720074443000
+    },
+    "log_pb": {
+        "impr_id": "20240704062722B4139CBAC246FB037936"
+    },
+    "shareMeta": {
+        "desc": "11500.0m views - Watch awesome short videos created with trending hashtag #python",
+        "title": "#python on TikTok"
+    },
+    "statusCode": 0,
+    "status_code": 0,
+    "status_msg": ""
+}

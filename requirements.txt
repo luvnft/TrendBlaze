@@ -1,0 +1,9 @@
+streamlit
+pandas
+plotly
+matplotlib
+seaborn
+joblib
+sklearn
+TikTokApi
+ritetag
