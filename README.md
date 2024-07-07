@@ -19,5 +19,82 @@ TrendBlaze is a comprehensive TikTok play count predictor and optimizer web appl
 ## Installation
 
 1. Clone the repository:
-git clone https://github.com/manyuhaochi214/Red_Romance.git
+```
+git clone https://github.com/manyuhaochi214/TrendBlaze.git
 cd trendblaze
+```
+3. Install the required packages:
+```
+pip install -r requirements.txt
+```
+3. Set up your TikTok API credentials:
+- Obtain a MS_TOKEN from TikTok
+- Set the MS_TOKEN as an environment variable or update it in the relevant Python files
+
+## Usage
+
+Run the Streamlit app:
+```
+streamlit run app.py
+```
+Follow the steps in the sidebar to navigate through the application:
+1. Introduction
+2. Login
+3. Data Input
+4. Hashtag Analysis
+5. Analytics
+
+## File Structure
+
+- `app.py`: Main application file that runs the Streamlit interface
+- `Introduction.py`: Contains the introduction page content
+- `Login.py`: Handles user login and fetches account statistics
+- `Hashtag.py`: Manages hashtag analysis and suggestions
+- `dataInput.py`: Handles user input for video content and details
+- `process.py`: Contains the core logic for predictive analytics and optimization
+- `getUser.py`: Fetches user data from TikTok API
+- `getHashTag.py`: Retrieves hashtag data from TikTok API
+- `getTrending.py`: Fetches trending videos from TikTok
+- `helper.py`: Contains utility functions for data processing
+- `Analytics.py`: Provides detailed analytics and optimization suggestions
+- `Random Forest Regressor.py`: Implements the Random Forest model for predictions
+- `TextToHashtag.py`: Converts text content to relevant hashtags
+- `TagApi.py`: Interfaces with the RiteTag API for hashtag suggestions
+
+## Models and Data
+
+- `best_model.joblib`: Trained machine learning model for play count prediction
+- `feature_info.joblib`: Feature information for the main prediction model
+- `sbest_model.joblib`: Smaller trained model for quick predictions
+- `sfeature_info.joblib`: Feature information for the smaller model
+
+## Dependencies
+
+Main dependencies include:
+- streamlit
+- pandas
+- numpy
+- scikit-learn
+- TikTokApi
+- plotly
+- matplotlib
+- seaborn
+- joblib
+- xgboost
+- ritetag
+
+For a complete list, refer to `requirements.txt`.
+
+## Notes
+
+- This application uses the TikTok API, which may require authentication and have usage limits.
+- The predictive models are based on historical data and may need periodic retraining for optimal performance.
+- Ensure you comply with TikTok's terms of service when using this tool.
+
+## Contributing
+
+Contributions to TrendBlaze are welcome! Please feel free to submit pull requests, create issues or spread the word.
+
+## License
+
+[Add your chosen license here]
