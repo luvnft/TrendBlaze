@@ -83,6 +83,8 @@ Main dependencies include:
 - xgboost
 - ritetag
 
+Make sure you have upgraded all libraries to the latest version. 
+
 
 ## Notes
 
